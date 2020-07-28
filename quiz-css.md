@@ -29,6 +29,20 @@ Demo 代码可以新建一个或多个文件（不限），
   flex-grow: 1;
 }
 ```
+### vue
+```css
+<style lang='scss'>
+.container{
+  displey:flex;
+  justify-content: space-between;
+  align-items: stretch;
+    div:first-child{
+      flex:1;
+    }
+}
+</style>
+在vue移动端项目中使用px2rem结合flexable将编写的px转换为rem,可以不用考虑rem问题,直接书写px
+```
 
 ## Q2
 

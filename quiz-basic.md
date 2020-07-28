@@ -9,35 +9,35 @@
 
 请在下面的表格中作答：
 
-| 名词           | 是什么               |
-| :------------- | :------------------- |
-| Node.js        | 是 JS 的一个 runtime |
-| npm            | 是 ……                |
-| npx            | 是 ……                |
-| nvm            | 是 ……                |
-| nrm            | 是 ……                |
-| yarn           | 是 ……                |
-| React          | 是 ……                |
-| Vue            | 是 ……                |
-| Flux           | 是 ……                |
-| Mobx           | 是 ……                |
-| MVVM           | 是 ……                |
-| TDD            | 是 ……                |
-| Jest/Mocha     | 是 ……                |
-| node_modules   | 是 ……                |
-| package.json   | 是 ……                |
-| ECMAScript     | 是 ……                |
-| Electron       | 是 ……                |
-| Babel          | 是 ……                |
-| Webpack        | 是 ……                |
-| SSR            | 是 ……                |
-| BFF            | 是 ……                |
-| Serverless     | 是 ……                |
-| PWA            | 是 ……                |
-| V8             | 是 ……                |
-| libuv          | 是 ……                |
-| Stack Overflow | 是 ……                |
-| Deno           | 是 ……                |
+| 名词           | 是什么                       |
+|:---------------|:-----------------------------|
+| Node.js        | 是 JS 的一个 runtime         |
+| npm            | 是 node.js的命令             |
+| npx            | 是 ……                        |
+| nvm            | 是 ……                        |
+| nrm            | 是 ……                        |
+| yarn           | 是 react命令                 |
+| React          | 是 前端开发框架              |
+| Vue            | 是 前端开发框架              |
+| Flux           | 是 ……                        |
+| Mobx           | 是 ……                        |
+| MVVM           | 是 一种模式 开发vue项目      |
+| TDD            | 是 ……                        |
+| Jest/Mocha     | 是 ……                        |
+| node_modules   | 是 项目依赖包                |
+| package.json   | 是 项目的配置信息 安装插件等 |
+| ECMAScript     | 是 ……                        |
+| Electron       | 是 ……                        |
+| Babel          | 是 JavaScript编辑器          |
+| Webpack        | 是 项目打包工具              |
+| SSR            | 是 服务器渲染                |
+| BFF            | 是 ……                        |
+| Serverless     | 是 ……                        |
+| PWA            | 是 ……                        |
+| V8             | 是 ……                        |
+| libuv          | 是 ……                        |
+| Stack Overflow | 是 ……                        |
+| Deno           | 是 ……                        |
 
 ## Q2
 
@@ -50,3 +50,6 @@
 > - 掘金、知乎
 
 答：
+> - 哔哩哔哩视频
+> - 知乎 CSDN 博客
+> - github
