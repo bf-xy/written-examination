@@ -59,3 +59,10 @@ Demo 代码可以新建一个或多个文件（不限），
 > ```
 
 答：
+> - CSS in JS 避免全局的命名空间容易污染、冲突,避免长命名导致代码体积无法进一步压缩等问题
+ ```css
+  var styles = {
+  　　 button: { width: ‘50px’, height: ‘30px’ , backgroundColor: ‘#ff4444’}
+　　 }
+　　<div style = { styles.button }>
+```

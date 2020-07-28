@@ -8,7 +8,10 @@ const getHostName = (url) => {
   url = url.match(/https?:\/\/([^/]+)\//i);
   // console.log(url)
   let string = '';
+  if(url||url[1]){
   string = url[1];
+  }
+ 
   return string;
 };
 
